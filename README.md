@@ -1,9 +1,9 @@
 Hello ,my name is Raji Roqeeb
-I am a software developer
+I am a Fontend webdeveloper
 having an experience of web design
-with HTML, CSS 
+with HTML, CSS, Bootstrap
 React.js and 
-mobile app development with python
+
 
 
 
