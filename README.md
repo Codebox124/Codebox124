@@ -1,8 +1,9 @@
-👋 Hi, I’m Raji Roqeeb
- 👀 I’m a 17 year-old Web Developer
- 👀 Lover of Open Source contribution
- 🌱 I’m currently into Frontend Development, with the use of HTML, CSS, and React.js 
- 💞️ I’m looking to collaborate on any project .
+##### . 👋 Hi, I’m Raji Roqeeb
+##### . 👀 I’m a 17 year-old Web Developer
+##### . 👀 Lover of Open Source contribution
+##### . 🌱 I’m currently into Frontend Development, with the use of HTML, CSS, and React.js 
+##### . 💞️ I’m looking to collaborate on any project .
+## 🏆 Github Trophy
 
   
 <a href="https://Codebox124.github.io">
