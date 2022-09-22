@@ -3,21 +3,23 @@
 ##### . 👀 Lover of Open Source contribution
 ##### . 🌱 I’m currently into Frontend Development, with the use of HTML, CSS, and React.js 
 ##### . 💞️ I’m looking to collaborate on any project .
-**Github Stats**
-  
-  <a href="https://Codebox124.github.io">
-  <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api/?username=Codebox124&count_private=true&theme=tokyonight&showicons=true">
-</a> 
+ 
 ## 🏆 Github Trophy
 
   
 <a href="https://Codebox124.github.io">
 <img alt="Github Trophy" src="https://github-profile-trophy.vercel.app/?username=Codebox124&theme=gruvbox">
-</a
+</a>
+
 
 ## 📊 More Stats
   ![](https://komarev.com/ghpvc/?username=Codebox124&color=green) <br />
- 
+  
+ **Github Stats**
+  
+  <a href="https://Codebox124.github.io">
+  <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api/?username=Codebox124&count_private=true&theme=tokyonight&showicons=true">
+</a>
   
 ## Most Used Languages
   
