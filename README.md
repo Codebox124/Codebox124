@@ -2,7 +2,7 @@
 ##### . 👀 I’m a 18 year-old Web Developer
 ##### . 👀 Lover of Open Source contribution
 ##### . 🌱 I’m currently into Frontend Development, with the use of HTML, CSS, and React.js 
-and Mobile App Development with the use of Flutter
+ #####      and Mobile App Development with the use of Flutter
 ##### . 💞️ I’m looking to collaborate on any project .
  
 ## 🏆 Github Trophy
