@@ -11,8 +11,7 @@
 <img alt="Github Trophy" src="https://github-profile-trophy.vercel.app/?username=Codebox124&theme=gruvbox">
 </a>
 
-<img alt="" src="[https://github-profile-trophy.vercel.app/?username=Codebox124&theme=gruvbox](https://holopin.me/codebox124)">
-  ![](https://holopin.io/@codebox124)
+[![An image of @codebox124's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/codebox124)](https://holopin.io/@codebox124)
 
 ## 📊 More Stats
   ![](https://komarev.com/ghpvc/?username=Codebox124&color=green) <br />
