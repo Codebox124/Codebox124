@@ -1,8 +1,8 @@
 ##### . 👋 Hi, I’m Raji Roqeeb
-##### . 👀 I’m a 18 year-old Software Developer
+##### . 👀 I’m a 19 year-old Software Developer
 ##### . 👀 Lover of Open Source contribution
-##### . 🌱 I’m currently into Web Development, with the use of HTML, CSS, and React.js 
- #####      and Mobile App Development with the use of Flutter
+##### . 🌱 I’m currently into Web Development, with the use of NextJs, Typescript, TailwindCss and React.js 
+ #####      and Mobile App Development with the use of Flutter, React Native
 ##### . 💞️ I’m looking to collaborate on any project .
  
 ## 🏆 Github Trophy
